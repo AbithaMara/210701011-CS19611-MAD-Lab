@@ -1,4 +1,4 @@
-ackage org.rajalakshmi.exp10telephonyservice
+Package org.rajalakshmi.exp10telephonyservice
 
 import android.content.Context
 import android.content.pm.PackageManager
